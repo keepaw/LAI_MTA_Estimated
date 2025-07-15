@@ -1,0 +1,2 @@
+You can download the pretrained model from [Google Drive] https://drive.google.com/file/d/1y4nSAh261AUy9do2rG8EhSvPO3c-alrZ/view?usp=sharing
+After download, place the `.pth` file in the '/main_algorithm/pth/' folder and run.
